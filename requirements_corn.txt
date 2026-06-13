@@ -1,0 +1,14 @@
+#   pip install -r requirements_corn.txt
+
+numpy==2.0.1
+scipy==1.13.1
+pandas==2.3.0
+matplotlib==3.9.2
+opencv-python==4.10.0.84
+scikit-image==0.24.0
+spectral==0.23.1
+openpyxl==3.1.5
+
+# Optional, only needed for later feature-selection/modeling scripts.
+scikit-learn==1.5.2
+skrebate==0.62

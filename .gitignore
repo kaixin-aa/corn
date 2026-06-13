@@ -1,0 +1,14 @@
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# IDE/editor settings
+.idea/
+.vscode/
+
+# Generated analysis outputs
+*.csv
+*.png
